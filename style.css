@@ -232,6 +232,11 @@ footer.footer {
     margin-bottom: 10%;
 }
 
+ .icon-link{
+    text-decoration: none;
+    list-style: none;
+    color: white;
+}
 .footer__navigation {
     width: 20%;
 }
